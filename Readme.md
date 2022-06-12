@@ -8,19 +8,22 @@
 
 [@jejubeerofficial](https://www.instagram.com/jejubeerofficial/?hl=ko)
 
+<br/>
 
+<a align="center" href="https://jejubeer.co.kr/jejulagerwave" > 
+    <font size=5>제주로 퇴근 하겠습니다 신청 링크!! 
+    </font>
+</a>
 
-<center> 
-    <a href="https://jejubeer.co.kr/jejulagerwave" > 
-        <font size=5>
-            <font size=7>제주로 퇴근 하겠습니다</font>
-            <br> 
-            신청 링크!! 
-        </font>
-    </a>
-</center>
+<br/>
 
+사실 Github도 SNS인지에 대해 명확한 정의를 발견하진 못했다.
 
+그래도 Sosial Network Service라는 이름에서 생각하면 Github도 수많은 개발자들이 서로의 고민 내용을 공유하고, 의견을 주고받는 공간이므로 **본인은 SNS라고 생각**한다.
+
+Instagram, Facebook은 하지 않고, 사용하는 SNS는 git기반의 코드 공유 플랫폼 뿐이지만 **나도 제주로 퇴근**하고싶다
+
+<br/>
 
 ~~사실 github에는 해시태그와 계정 태그가 없다~~
 
@@ -37,10 +40,4 @@
 
 
 
-
-사실 Github도 SNS인지에 대해 명확한 정의를 발견하진 못했다.
-
-그래도 Sosial Network Service라는 이름에서 생각하면 Github도 수많은 개발자들이 서로의 고민 내용을 공유하고, 의견을 주고받는 공간이므로 **본인은 SNS라고 생각**한다.
-
-Instagram, Facebook은 하지 않고, 사용하는 SNS는 git기반의 코드 공유 플랫폼 뿐이지만 **나도 제주로 퇴근**하고싶다
 
